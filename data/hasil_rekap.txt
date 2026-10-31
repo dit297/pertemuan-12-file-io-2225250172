@@ -1,0 +1,5 @@
+Jumlah data valid: 7
+Rata-rata: 76.57
+Minimum: 59.00
+Maksimum: 92.00
+Jumlah lulus: 6
